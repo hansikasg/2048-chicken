@@ -1,7 +1,7 @@
 body {
   font-family: 'Comic Sans MS', cursive, sans-serif;
   text-align: center;
-  background: #fff0f5;
+  background: #b8acf2;
   margin: 0;
   padding: 20px;
 }
@@ -13,7 +13,7 @@ h1 {
 #game-container {
   width: 320px;
   margin: auto;
-  background: #f8e1f4;
+  background: #938aff;
   border-radius: 15px;
   padding: 10px;
   box-shadow: 0 0 20px #ccc;
